@@ -1,4 +1,4 @@
-# Miguel Evans
+# [Miguel Evans](https://drive.google.com/file/d/1R1uMUjoBiSV2qtmWst1-vMtCFJBHlRwD/view?usp=drive_link)
 
 I'm Miguel Evans and I am a soon to be B.S. Software Engineering graduate with an Applied Data Analytics Certificate. I enjoy learning about new coding languages, the processes behind machine learning and AI, as well as data analysis. 
 
