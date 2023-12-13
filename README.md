@@ -1,6 +1,6 @@
 # Miguel Evans
 
-I'm Miguel Evans and I am a soon to be B.S. Software Engineering graduate with an Applied Data Analytics Certificate. I enjoy learning new coding languages, the processes behind machine learning and AI, as well as data analysis. 
+I'm Miguel Evans and I am a soon to be B.S. Software Engineering graduate with an Applied Data Analytics Certificate. I enjoy learning about new coding languages, the processes behind machine learning and AI, as well as data analysis. 
 
 
 ## Education and Certification
