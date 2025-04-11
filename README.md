@@ -6,7 +6,7 @@ I'm Miguel Evans and I am a soon to be B.S. Software Engineering graduate with a
 ## Education and Certification
 * B.S. Software Engineering
 * Applied Data Analytics Certificate
-* SAS Viya Visual Certification (in progress)
+
 
 ## Skills and Experience 
 * 💻 Python, CSS, Java
